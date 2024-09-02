@@ -1,1 +1,2 @@
-# online-store-performance-analysis
+# Online Store Performance Analysis
+![](/dashboard.JPG)
